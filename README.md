@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andy!
+- 👋 Hi, I’m Andres!
 - 👀 I’m an aspiring software developer.
 - 🌱 I’m currently learning HTML, JS, CSS.
 
